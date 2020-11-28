@@ -1,0 +1,4 @@
+step 1 = Download folder and export in xampp folder .
+Step 2 = Change Base url in config file.
+Step 3 = import sql file using phpmyadmin or workbench.
+Step 4 = Login using Usernae = demo@gmail.com and password = admin@1122
